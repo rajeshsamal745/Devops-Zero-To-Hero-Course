@@ -8,3 +8,11 @@ total 8.0K
 -rw-rw-r-- 1 ubuntu ubuntu 127 May  8 10:57 all_in_one.log
 -rw-rw-r-- 1 ubuntu ubuntu   0 May  8 10:57 demo.txt
 -rwxrwxr-x 1 ubuntu ubuntu 288 May  8 10:57 system_audit.sh
+=== Starting Combined Script ===
+File demo.txt created.
+Listing files:
+total 8.0K
+-rw-rw-r-- 1 ubuntu ubuntu   0 May  8 08:03 README.md
+-rw-rw-r-- 1 ubuntu ubuntu 435 May  8 11:04 all_in_one.log
+-rw-rw-r-- 1 ubuntu ubuntu   0 May  8 11:04 demo.txt
+-rwxrwxr-x 1 ubuntu ubuntu 288 May  8 11:04 system_audit.sh
