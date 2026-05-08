@@ -8,3 +8,9 @@ echo "=== Starting Combined Script ===" | tee -a $LOGFILE
 FILE="demo.txt"
 touch "$FILE"
 echo "File $FILE created." | tee -a $LOGFILE
+
+# 2. List files and folders
+echo "Listing files:" | tee -a $LOGFILE
+ls -lh | tee -a $LOGFILE
+
+
