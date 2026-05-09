@@ -58,3 +58,13 @@ ls -l demo.txt | tee -a $LOGFILE
 echo "Recent Commands:" | tee -a $LOGFILE
 history | tail -5 | tee -a $LOGFILE
 
+# 13. Check CPU and RAM
+echo "CPU & RAM Info:" | tee -a $LOGFILE
+lscpu | grep "Model Name" | tee -a $LOGFILE
+free -h | tee -a $LOGFILE
+
+# 14. Top Command
+echo "Top processes snapshot:" | tee -a $LOGFILE
+top -b -n 1 | head -10 | tee -a $LOGFILE
+
+echo "=== Combined Script Completed ===" | tee -a $LOGFILE
