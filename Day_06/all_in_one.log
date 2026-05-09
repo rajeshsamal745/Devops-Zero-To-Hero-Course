@@ -16,3 +16,279 @@ total 8.0K
 -rw-rw-r-- 1 ubuntu ubuntu 435 May  8 11:04 all_in_one.log
 -rw-rw-r-- 1 ubuntu ubuntu   0 May  8 11:04 demo.txt
 -rwxrwxr-x 1 ubuntu ubuntu 288 May  8 11:04 system_audit.sh
+=== Starting Combined Script ===
+File demo.txt created.
+Listing files:
+total 8.0K
+-rw-rw-r-- 1 ubuntu ubuntu   0 May  8 08:03 README.md
+-rw-rw-r-- 1 ubuntu ubuntu 743 May  8 11:18 all_in_one.log
+-rw-rw-r-- 1 ubuntu ubuntu   0 May  8 11:18 demo.txt
+-rwxrwxr-x 1 ubuntu ubuntu 390 May  8 11:18 system_audit.sh
+Showing first 10 lines of 'ls' manual:
+=== Starting Combined Script ===
+File demo.txt created.
+Listing files:
+total 8.0K
+-rw-rw-r-- 1 ubuntu ubuntu    0 May  8 08:03 README.md
+-rw-rw-r-- 1 ubuntu ubuntu 1.1K May  8 11:20 all_in_one.log
+-rw-rw-r-- 1 ubuntu ubuntu    0 May  8 11:20 demo.txt
+-rwxrwxr-x 1 ubuntu ubuntu  418 May  8 11:19 system_audit.sh
+Showing first 10 lines of 'ls' manual:
+=== Starting Combined Script ===
+File demo.txt created.
+Listing files:
+total 8.0K
+-rw-rw-r-- 1 ubuntu ubuntu    0 May  8 08:03 README.md
+-rw-rw-r-- 1 ubuntu ubuntu 1.5K May  8 11:21 all_in_one.log
+-rw-rw-r-- 1 ubuntu ubuntu    0 May  8 11:21 demo.txt
+-rwxrwxr-x 1 ubuntu ubuntu  419 May  8 11:21 system_audit.sh
+Showing first 10 lines of 'ls' manual:
+LS(1)                                                     User Commands                                                     LS(1)
+
+NAME
+       ls - list directory contents
+
+SYNOPSIS
+       ls [OPTION]... [FILE]...
+
+DESCRIPTION
+       List information about the FILEs (the current directory by default).  Sort entries alphabetically if none of -cftuvSUX nor
+=== Starting Combined Script ===
+File demo.txt created.
+Listing files:
+total 8.0K
+-rw-rw-r-- 1 ubuntu ubuntu    0 May  8 08:03 README.md
+-rw-rw-r-- 1 ubuntu ubuntu 2.1K May  8 11:41 all_in_one.log
+-rw-rw-r-- 1 ubuntu ubuntu    0 May  8 11:41 demo.txt
+-rwxrwxr-x 1 ubuntu ubuntu  539 May  8 11:41 system_audit.sh
+Showing first 10 lines of 'ls' manual:
+LS(1)                                                     User Commands                                                     LS(1)
+
+NAME
+       ls - list directory contents
+
+SYNOPSIS
+       ls [OPTION]... [FILE]...
+
+DESCRIPTION
+       List information about the FILEs (the current directory by default).  Sort entries alphabetically if none of -cftuvSUX nor
+Written content to demo.txt
+=== Starting Combined Script ===
+File demo.txt created.
+Listing files:
+total 12K
+-rw-rw-r-- 1 ubuntu ubuntu    0 May  8 08:03 README.md
+-rw-rw-r-- 1 ubuntu ubuntu 2.9K May  8 11:45 all_in_one.log
+-rw-rw-r-- 1 ubuntu ubuntu   12 May  8 11:45 demo.txt
+-rwxrwxr-x 1 ubuntu ubuntu  833 May  8 11:45 system_audit.sh
+Showing first 10 lines of 'ls' manual:
+LS(1)                                                     User Commands                                                     LS(1)
+
+NAME
+       ls - list directory contents
+
+SYNOPSIS
+       ls [OPTION]... [FILE]...
+
+DESCRIPTION
+       List information about the FILEs (the current directory by default).  Sort entries alphabetically if none of -cftuvSUX nor
+Written content to demo.txt
+Touch vs vim demo done.
+Touch vs vim demo done.
+=== Starting Combined Script ===
+File demo.txt created.
+Listing files:
+total 16K
+-rw-rw-r-- 1 ubuntu ubuntu    0 May  8 08:03 README.md
+-rw-rw-r-- 1 ubuntu ubuntu 3.6K May  8 11:45 all_in_one.log
+-rw-rw-r-- 1 ubuntu ubuntu   22 May  8 11:45 content.txt
+-rw-rw-r-- 1 ubuntu ubuntu   12 May  8 11:45 demo.txt
+-rw-rw-r-- 1 ubuntu ubuntu    0 May  8 11:45 empty.txt
+-rwxrwxr-x 1 ubuntu ubuntu  833 May  8 11:45 system_audit.sh
+Showing first 10 lines of 'ls' manual:
+LS(1)                                                     User Commands                                                     LS(1)
+
+NAME
+       ls - list directory contents
+
+SYNOPSIS
+       ls [OPTION]... [FILE]...
+
+DESCRIPTION
+       List information about the FILEs (the current directory by default).  Sort entries alphabetically if none of -cftuvSUX nor
+Written content to demo.txt
+Touch vs vim demo done.
+Touch vs vim demo done.
+=== Starting Combined Script ===
+File demo.txt created.
+Listing files:
+total 20K
+-rw-rw-r-- 1 ubuntu ubuntu    0 May  8 08:03 README.md
+-rw-rw-r-- 1 ubuntu ubuntu 4.5K May  8 12:09 all_in_one.log
+-rw-rw-r-- 1 ubuntu ubuntu   22 May  8 11:45 content.txt
+-rw-rw-r-- 1 ubuntu ubuntu   12 May  8 12:09 demo.txt
+-rw-rw-r-- 1 ubuntu ubuntu    0 May  8 11:45 empty.txt
+-rwxrwxr-x 1 ubuntu ubuntu  801 May  8 12:09 system_audit.sh
+Showing first 10 lines of 'ls' manual:
+LS(1)                                                     User Commands                                                     LS(1)
+
+NAME
+       ls - list directory contents
+
+SYNOPSIS
+       ls [OPTION]... [FILE]...
+
+DESCRIPTION
+       List information about the FILEs (the current directory by default).  Sort entries alphabetically if none of -cftuvSUX nor
+Written content to demo.txt
+Touch vs vim demo done.
+=== Starting Combined Script ===
+File demo.txt created.
+Listing files:
+total 24K
+-rw-rw-r-- 1 ubuntu ubuntu    0 May  8 08:03 README.md
+-rw-rw-r-- 1 ubuntu ubuntu 5.4K May  8 12:10 all_in_one.log
+-rw-rw-r-- 1 ubuntu ubuntu   22 May  8 12:09 content.txt
+-rw-rw-r-- 1 ubuntu ubuntu   22 May  8 12:09 copy_content.txt
+-rw-rw-r-- 1 ubuntu ubuntu   12 May  8 12:10 demo.txt
+-rw-rw-r-- 1 ubuntu ubuntu    0 May  8 12:09 empty.txt
+-rwxrwxr-x 1 ubuntu ubuntu  802 May  8 12:10 system_audit.sh
+Showing first 10 lines of 'ls' manual:
+LS(1)                                                     User Commands                                                     LS(1)
+
+NAME
+       ls - list directory contents
+
+SYNOPSIS
+       ls [OPTION]... [FILE]...
+
+DESCRIPTION
+       List information about the FILEs (the current directory by default).  Sort entries alphabetically if none of -cftuvSUX nor
+Written content to demo.txt
+Touch vs vim demo done.
+Copied content.txt to copy_content.txt
+=== Starting Combined Script ===
+File demo.txt created.
+Listing files:
+total 24K
+-rw-rw-r-- 1 ubuntu ubuntu    0 May  8 08:03 README.md
+-rw-rw-r-- 1 ubuntu ubuntu 6.3K May  8 12:13 all_in_one.log
+-rw-rw-r-- 1 ubuntu ubuntu   22 May  8 12:10 content.txt
+-rw-rw-r-- 1 ubuntu ubuntu   22 May  8 12:10 copy_content.txt
+-rw-rw-r-- 1 ubuntu ubuntu   12 May  8 12:13 demo.txt
+-rw-rw-r-- 1 ubuntu ubuntu    0 May  8 12:10 empty.txt
+-rwxrwxr-x 1 ubuntu ubuntu 1.1K May  8 12:13 system_audit.sh
+Showing first 10 lines of 'ls' manual:
+LS(1)                                                     User Commands                                                     LS(1)
+
+NAME
+       ls - list directory contents
+
+SYNOPSIS
+       ls [OPTION]... [FILE]...
+
+DESCRIPTION
+       List information about the FILEs (the current directory by default).  Sort entries alphabetically if none of -cftuvSUX nor
+Written content to demo.txt
+Touch vs vim demo done.
+Copied content.txt to copy_content.txt
+This script runs with bash interpreter.
+Current shell: /bin/bash
+This script runs with bash interpreter.
+Current shell: /bin/bash
+=== Starting Combined Script ===
+File demo.txt created.
+Listing files:
+total 24K
+-rw-rw-r-- 1 ubuntu ubuntu    0 May  8 08:03 README.md
+-rw-rw-r-- 1 ubuntu ubuntu 7.4K May  8 12:32 all_in_one.log
+-rw-rw-r-- 1 ubuntu ubuntu   22 May  8 12:13 content.txt
+-rw-rw-r-- 1 ubuntu ubuntu   22 May  8 12:13 copy_content.txt
+-rw-rw-r-- 1 ubuntu ubuntu   12 May  8 12:32 demo.txt
+-rw-rw-r-- 1 ubuntu ubuntu    0 May  8 12:13 empty.txt
+-rwxrwxr-x 1 ubuntu ubuntu 1.3K May  8 12:32 system_audit.sh
+Showing first 10 lines of 'ls' manual:
+LS(1)                                                     User Commands                                                     LS(1)
+
+NAME
+       ls - list directory contents
+
+SYNOPSIS
+       ls [OPTION]... [FILE]...
+
+DESCRIPTION
+       List information about the FILEs (the current directory by default).  Sort entries alphabetically if none of -cftuvSUX nor
+Written content to demo.txt
+Touch vs vim demo done.
+Copied content.txt to copy_content.txt
+This script runs with bash interpreter.
+Current shell: /bin/bash
+This script runs with bash interpreter.
+Current shell: /bin/bash
+welcome to devops automation
+Script is executable.
+=== Starting Combined Script ===
+File demo.txt created.
+Listing files:
+total 28K
+-rw-rw-r-- 1 ubuntu ubuntu    0 May  8 08:03 README.md
+-rw-rw-r-- 1 ubuntu ubuntu 8.5K May  8 12:38 all_in_one.log
+-rw-rw-r-- 1 ubuntu ubuntu   22 May  8 12:32 content.txt
+-rw-rw-r-- 1 ubuntu ubuntu   22 May  8 12:32 copy_content.txt
+-rw-rw-r-- 1 ubuntu ubuntu   12 May  8 12:38 demo.txt
+-rw-rw-r-- 1 ubuntu ubuntu    0 May  8 12:32 empty.txt
+-rwxrwxr-x 1 ubuntu ubuntu 1.4K May  8 12:38 system_audit.sh
+Showing first 10 lines of 'ls' manual:
+LS(1)                                                     User Commands                                                     LS(1)
+
+NAME
+       ls - list directory contents
+
+SYNOPSIS
+       ls [OPTION]... [FILE]...
+
+DESCRIPTION
+       List information about the FILEs (the current directory by default).  Sort entries alphabetically if none of -cftuvSUX nor
+Written content to demo.txt
+Touch vs vim demo done.
+Copied content.txt to copy_content.txt
+This script runs with bash interpreter.
+Current shell: /bin/bash
+This script runs with bash interpreter.
+Current shell: /bin/bash
+welcome to devops automation
+Script is executable.
+-rwxrwxrwx 1 ubuntu ubuntu 12 May  8 12:38 demo.txt
+=== Starting Combined Script ===
+File demo.txt created.
+Listing files:
+total 28K
+-rw-rw-r-- 1 ubuntu ubuntu    0 May  8 08:03 README.md
+-rw-rw-r-- 1 ubuntu ubuntu 9.7K May  8 12:40 all_in_one.log
+-rw-rw-r-- 1 ubuntu ubuntu   22 May  8 12:38 content.txt
+-rw-rw-r-- 1 ubuntu ubuntu   22 May  8 12:38 copy_content.txt
+-rwxrwxrwx 1 ubuntu ubuntu   12 May  8 12:40 demo.txt
+-rw-rw-r-- 1 ubuntu ubuntu    0 May  8 12:38 empty.txt
+-rwxrwxr-x 1 ubuntu ubuntu 1.5K May  8 12:40 system_audit.sh
+Showing first 10 lines of 'ls' manual:
+LS(1)                                                     User Commands                                                     LS(1)
+
+NAME
+       ls - list directory contents
+
+SYNOPSIS
+       ls [OPTION]... [FILE]...
+
+DESCRIPTION
+       List information about the FILEs (the current directory by default).  Sort entries alphabetically if none of -cftuvSUX nor
+Written content to demo.txt
+Touch vs vim demo done.
+Copied content.txt to copy_content.txt
+This script runs with bash interpreter.
+Current shell: /bin/bash
+This script runs with bash interpreter.
+Current shell: /bin/bash
+welcome to devops automation
+Script is executable.
+-rwxrwxrwx 1 ubuntu ubuntu 12 May  8 12:40 demo.txt
+Recent Commands:
