@@ -66,10 +66,34 @@ else
         exit 1
 fi
 
+# === System Navigation & Privileges ===
+echo "Finding .log files in /var/log..."
+find /var/log -name "*.log" 2>/dev/null | head -5 || true
 
+echo "[INFO] Demonstrating sudo (requires privileges)."
+sudo ls /root   # Uncomment if running with sudo privileges
 
+# === Control Logic ===
+
+echo "[INFO] Demonstrating if-else logic..."
+file_path="data/logFile.log"
+if [ -f "$file_path" ]; then
+	echo "Log file exists."
+else
+	echo "Log file missing."
+fi
+
+echo "[INFO] Demonstrating for loop..."
+for i in 1 2 3 4; do
+	echo "Loop iteration $i"
+done
 
 # === Signal Handling with trap ===
+TEMPFILE="data/tempfile.txt"
+touch $TEMPFILE
+trap 'echo "[CLEANUP] Removing temp files..."; rm -f $TEMPFILE' EXIT
+echo "[INFO] Tempfile created at $TEMPFILE"
+
 trap 'echo "[ERROR] Script interrupted. Cleaning up..."; exit 1' SIGINT
 
 echo "Script Started"
